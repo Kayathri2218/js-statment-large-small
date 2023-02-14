@@ -10,7 +10,7 @@ if ((first > second) && (first > thrid)) {
     }
 }else if ((second > first) && (second > thrid)) {
     if (first> thrid) {
-        console.log("second is large ,  first is small");
+        console.log("second is large ,  thrid is small");
     }else {
         console.log("second is large ,  first is small");
     }
@@ -18,6 +18,7 @@ if ((first > second) && (first > thrid)) {
     if (second > first) {
         console.log("thrid is large , first is small");
     }else{
-        console.log("first is large , seond is small");
+        console.log("thrid is large , second is small");
     }
 }
+
